@@ -45,6 +45,7 @@ terraform init
 ```
 
 Теперь, когда workspace создан, можно запустить деплой (тк в шаблонах от разработчиков kuberspray еще создавались роуты и пользователи, а в аккаунте от Нетологии это не поддерживается и теперь нельзя удалить данных пользователей тк не хватает прав то пришлось использовать локальный apply).
+- [workspace-terraform](https://app.terraform.io/app/ecriptor/workspaces/diplom_terraform)
 
 ```
 terraform plan
