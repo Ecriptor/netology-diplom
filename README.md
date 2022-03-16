@@ -89,12 +89,14 @@ kubectl create -f manifests/
 ![image](gitlab.png)
 
 ### ИТОГ
-[Grafana:](http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30000/) 
+Grafana: [http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30000](http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30000/) 
 ```
 login: admin
 password: netology_admin
 ```
-[APP:](http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30001/) 
+APP:[http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30001](http://ingresses-http-diplomnetology-1360678595.eu-west-3.elb.amazonaws.com:30001/) 
+-
+![image](app.png)
 
 
 
